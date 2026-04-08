@@ -5,12 +5,12 @@
   "main": "⚡-cases-estao-aqui.js",
   "type": "module",
   "scripts": {
-    "start": "node --watch ./src/index.js",
+    "start": "node ⚡-cases-estao-aqui.js",
     "test": "node ./src/test.js",
     "test:all": "node --test"
   },
   "engines": {
-    "node": ">=22.8.0"
+    "node": ">=20.x
   },
   "keywords": [],
   "author": "",
