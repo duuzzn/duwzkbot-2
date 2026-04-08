@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cacheable/node-cache": "^1.7.4",
+    "@whiskeysockets/baileys": "^6.7.18",
     "axios": "^1.13.2",
     "@whiskeysockets/baileys": "^6.7.18",
     "correios-brasil": "^3.0.6",
