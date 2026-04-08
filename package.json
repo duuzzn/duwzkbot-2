@@ -6,8 +6,6 @@
   "type": "module",
   "scripts": {
     "start": "node ⚡-cases-estao-aqui.js",
-    "test": "node ./src/test.js",
-    "test:all": "node --test"
   },
   "engines": {
     "node": ">=20.x"
@@ -18,7 +16,7 @@
   "dependencies": {
     "@cacheable/node-cache": "^1.7.4",
     "axios": "^1.13.2",
-    "baileys": "7.0.0-rc.9",
+    "@whiskeysockets/baileys": "^6.7.18",
     "correios-brasil": "^3.0.6",
     "node-cache": "^5.1.2",
     "node-webpmux": "^3.2.1",
