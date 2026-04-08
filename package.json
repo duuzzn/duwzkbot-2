@@ -2,7 +2,7 @@
   "name": "takeshi-bot",
   "version": "7.5.0",
   "description": "Um bot de WhatsApp multifunções.",
-  "main": "index.js",
+  "main": "⚡-cases-estao-aqui.js",
   "type": "module",
   "scripts": {
     "start": "node --watch ./src/index.js",
